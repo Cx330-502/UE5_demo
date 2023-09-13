@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{33CF24DA-49B3-A3E5-544F-40AC2E150AB9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "mobile_pro0",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
